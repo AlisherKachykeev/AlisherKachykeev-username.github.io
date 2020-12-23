@@ -6,7 +6,7 @@ The homeWork App is simple project developed using JavaScript(jQuery),CSS(Bootst
 
 First of all you should create simple html page with basic structure inside.
 and add reqired links like bootstrap(i'm using local bootstrap , i think it will load faster )
-![1img](tutorialpics/1img.png)
+![1img](tutorialpics/img1.png)
 
 ***body***
 
