@@ -6,7 +6,7 @@ Here is tutorial: [TUTORIAL.md](tutorial.md)
 Kachykeev Alisher com19
 Zhanbolot Baktybek uulu com19
 ## YouTube
-Access to the video only through the [link](https://youtu.be/Ym_KuuS-qD8)
+Access to the video only through the [link](https://youtu.be/KZ_ca-jshHY)
 ## Images
 ![only logo](assets/images/alatoo.png)
 all other pics are in TUTORIAL.md file
